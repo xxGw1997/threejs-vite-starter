@@ -1,7 +1,23 @@
-## git clone https://github.com/xxGw1997/threejs-vite-starter.git
+# Three.js - Vite - Starter
 
-## cd threejs-vite-starter
+🚧 This template is under construction by Vite
 
-## npm install
+## Setup
+Run this followed commands:
 
-## npm run dev
+``` bash
+# Get the project
+git clone https://github.com/xxGw1997/threejs-vite-starter.git
+
+# Move dir
+cd threejs-vite-starter
+
+# Install dependencies (only the first time)
+npm install
+
+# Run the local server at localhost:5173
+npm run dev
+
+# Build for production in the dist/ directory
+npm run build
+```
